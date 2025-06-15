@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/debate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eum-gateway-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eum-user-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/information" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/post" vcs="Git" />
+  </component>
+</project>

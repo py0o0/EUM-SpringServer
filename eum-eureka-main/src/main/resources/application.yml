@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: eureka-server
+
+# 유레카 서버 구동시 사용할 포트 변경 (8080 -> 8761)
+server:
+  port: 8761
+
+# 자기 자신이 유레카 서버에 클라이언트로 등록 되지 x 설정
+eureka:
+  server:
+    enable-self-preservation: false
+    # enableSelfPreservation: false
+  client:
+    register-with-eureka: false
+    # registerWithEureka: false
+    fetch-registry: false
+    # fetchRegistry: false
